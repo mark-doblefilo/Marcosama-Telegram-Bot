@@ -1,2 +1,7 @@
-info.txt
+#Main credentials
 secret.json
+credentials.json
+#Others
+info.txt
+token.pickle
+*.pyc
